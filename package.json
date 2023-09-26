@@ -1,0 +1,26 @@
+{
+  "name": "qrcodegen",
+  "version": "1.0.0",
+  "description": "QR Code Generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvadorP/qrcodegen.git"
+  },
+  "keywords": [
+    "qr"
+  ],
+  "author": "Salvador P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalvadorP/qrcodegen/issues"
+  },
+  "homepage": "https://github.com/SalvadorP/qrcodegen#readme",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
